@@ -2,10 +2,10 @@
 
 [Maxima](docs/maxima.md)
 
-[Scilab]()
+[Scilab](docs/scilab.md)
 
-[Wolfram Alfa]()
+[Wolfram Alfa](docs/wolphramalpha.md)
 
-[GeoGebra]()
+[GeoGebra](docs/geogebra.md)
 
-[MS Officie Excel]()
+[MS Officie Excel](docs/excel.md)
